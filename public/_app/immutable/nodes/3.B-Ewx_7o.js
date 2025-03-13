@@ -1,0 +1,1 @@
+import{t as o,a as p}from"../chunks/ulIf0o0Q.js";import"../chunks/DfSdsP3B.js";import{n as t}from"../chunks/DV58t2Xs.js";var e=o('<h2>Carrito de compras</h2> <a href="/">Regresar a la pagina principal</a>',1);function s(a){var r=e();t(2),p(a,r)}export{s as component};
